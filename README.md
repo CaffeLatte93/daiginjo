@@ -1,0 +1,2 @@
+# daiginjo
+tea testnet
